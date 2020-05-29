@@ -1,3 +1,26 @@
+## 设置环境变量 
+    set HTTPS=true&&yarn start http变成https访问模式
+
+## create-react-app 搭建react脚手架
+### 会安装三个模块 
+#### react
+#### react-dom
+#### react-scripts
+##### 集成了webpack所需的所有依赖 
+###### `babel转义 react转义 都会转成es5语法 css处理和自动加样式前缀` 
+#### react
+## react-dom & react
+### `react`
+#### MVC模式（model view controller）
+#### 划分组件开发
+#### 基于路由的spa单页面开发
+    react框架的核心部分，提供了component类可以提供我们进行组件开发，提供了钩子函数（生命周期函数）
+    
+### `JSX渲染机智`
+    1，基于BABEL中的语法解析模块（babel-preset-react）把JSX语法编译为React.createElement的结构
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
