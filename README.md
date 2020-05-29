@@ -3,11 +3,11 @@
 
 ## create-react-app 搭建react脚手架
 ### 会安装三个模块 
-#### react
-#### react-dom
-#### react-scripts
-##### 集成了webpack所需的所有依赖 
-###### `babel转义 react转义 都会转成es5语法 css处理和自动加样式前缀` 
+#### `react`
+#### `react-dom`
+#### `react-scripts`
+* ##### `集成了webpack所需的所有依赖`
+* ##### `babel转义 react转义 都会转成es5语法 css处理和自动加样式前缀`
 #### react
 ## react-dom & react
 ### `react`
